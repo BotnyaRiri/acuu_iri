@@ -44,9 +44,11 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ 
-│ jangan lupa follow ig ku yah (X﹏X)↷
-│ https://www.instagram.com/invites/contact/?i=6kzzvwuom07a&utm_content=hwgkqlf
+│
+│ hello my name is dora, aku kesepian 
+│ dan marilah berteman denganku, , 
+│ ku humble dan toxic,,, dan hobiku ngebot
+│ jhaaa 🙂😜
 │
 ╰────
 %readmore`.trimStart(),
